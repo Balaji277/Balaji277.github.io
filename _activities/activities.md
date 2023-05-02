@@ -11,9 +11,7 @@ author_profile: true
 Leadership and Volunteering
 ======
 <h2>Campus Diversity and Inclusion Initiative</h2>
-<figure>
-  <img src="/images/campus.png" style="width:100px;height:100px;">
-</figure>
+
   * <h3> Volunteer [Oct 2022 - Present]</h3>
     * Collaborate with campus community members to enhance diversity and inclusion efforts on campus.
     * Develop and implement initiatives to ensure diverse representation among faculty, staff, and students, and create an inclusive environment that enables all persons to participate, prosper, benefit, and reach their full potential.
@@ -25,9 +23,7 @@ Leadership and Volunteering
     * Participate in faculty candidate interviews, roundtable discussions, and graduate student recruiting events to promote diversity and inclusion.
 
 <h2>WWF World Wisdom Global Challenge</h2>
-<figure>
-  <img src="/images/wwf.png" style="width:100px;height:100px;">
-</figure>
+
   * <h3>Education Board Volunteer [Aug 2021 - Present]</h3>
     * Actively involved in educating and engaging with a wide audience, particularly the youth, to spread awareness about anthropological activities, their impact on the environment, and ways to reduce it, as part of the "World Wisdom Global Challenge" initiative by WWF.
     * Organized and led various interactive workshops and sessions to engage with young minds, helping them learn about the importance of sustainability and environmental conservation. 
@@ -40,9 +36,7 @@ Leadership and Volunteering
 </figure>
 
 <h2>Lions Club</h2>
-<figure>
-  <img src="/images/lionsclub.png" style="width:100px;height:100px;">
-</figure>
+
 * <h3>Volunteer [Aug 2021 - Present]</h3>
   * Spearhead planning and execution of blood donation camps for the community, ensuring that all logistics are in place and safety measures are adhered to.
   * Coordinate with local hospitals and medical professionals to ensure proper handling and transportation of collected blood donations.
