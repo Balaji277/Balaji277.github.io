@@ -1,15 +1,15 @@
 ---
-title: "The Art of Decay"
+title: "Design and Simulation of Pandemic Safe Air Conditioned Electric Three Wheeler"
 collection: publications
-permalink: /publication/project2
-excerpt: 'Moulya S, <b>Balaji Praneeth Boga</b>, Shreyas B, Kyle Clarke, Myria Mathew.<br /><b>CMU-</b> 10615 Art and Machine Learning [2023]'
+permalink: /publication/uproject1
+excerpt: '<b>Balaji Praneeth Boga</b>.<br /><b>VIT-</b> Capstone Project [2021]'
 
 ---
 
-[[report]](https://drive.google.com/file/d/1l67kZ_SLBBsH5V1WUHFVBlmGkokgolvp/view?usp=share_link)
+[[report]](https://drive.google.com/file/d/1Mc95O4qGypeqtFEL61m-ItRnUv1GAgof/view?usp=share_link)
 
 
 Abstract
 ======
 
-This project showcases the potential of Generative Adversarial Networks (GANs) in generating high-quality and realistic images in a specific style. The focus of the project was on creating scary and horrifying anime-style images using Fast Style Transfer and Scalable Diffusion techniques. The use of the anime style, known for its distinctive character designs and stylized features, added a unique touch to the images, resulting in high artistic quality and visual appeal. The project also highlights the emotional impact that scary and horrifying images can have on viewers and demonstrates the potential of GANs in creating media that elicits strong emotional responses. The use of GANs in the creative industries has immense potential, from generating realistic CGI in movies to creating custom avatars for video games. This project serves as an example of how GANs can be used to create engaging and personalized visual media and showcases the technology's evolution and future possibilities.
+In this project, a sustainable and innovative three-wheeler vehicle was designed and simulated with features such as electric drive and air conditioning powered by both solar energy and battery. The use of sustainable materials such as fiberglass for the shell and low carbon steel for the chassis and AM60A aluminum alloy for the wheels was carefully selected. The project also involved computational fluid dynamics analysis to determine the coefficient of drag and tonnage requirement for the air conditioning system, as well as a comparison of different refrigerants, ultimately selecting R134a as the primary refrigerant for the air conditioning system. This project aimed to provide a safe and comfortable mode of transportation while reducing harmful emissions and promoting sustainable development.
