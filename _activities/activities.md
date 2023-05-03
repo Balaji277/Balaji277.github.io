@@ -28,10 +28,6 @@ Leadership and Volunteering
     * Collaborated with a diverse team of educators, volunteers, and subject matter experts to develop and deliver engaging and informative content, designed to appeal to young minds and promote environmental consciousness. 
     * Demonstrated leadership skills by effectively managing and delegating tasks to team members, ensuring smooth execution of events and activities.
     * Constantly innovated and implemented new strategies to increase the reach and impact of the initiative, resulting in a significant increase in audience engagement and awareness.
-(COmment: Include any pic here)
-<figure>
-  <img src="/images/logoctw.jpeg" style="width:250px;height:500px;">
-</figure>
 
 <h2>Lions Club</h2>
 * <h3>Volunteer [Aug 2021 - Present]</h3>
