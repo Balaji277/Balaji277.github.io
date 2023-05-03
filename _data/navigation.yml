@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Resume"
-    url: /resume/
-
   - title: "Publications and Projects"
     url: /publications/
 
