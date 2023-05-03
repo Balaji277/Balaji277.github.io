@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<i>"My Heart is in the Work" - Andrew Carnegie</i>
+<i>"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt</i>
 
 <b>Looking for Summer Internship for <u>Summer 2023</u> in Computer Vision and Deep Learning, where I can contribute to solve challenging problems</b>
 
