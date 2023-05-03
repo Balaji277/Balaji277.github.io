@@ -2,7 +2,7 @@
 title: "Design and Simulation of Pandemic Safe Air Conditioned Electric Three Wheeler"
 collection: publications
 permalink: /publication/uproject1
-excerpt: '<b>Balaji Praneeth Boga</b>, Hrithik Rao Palvai, Ravikiran Seethini.<br /><b>VIT-</b> Capstone Project [2021]'
+excerpt: '<b>Boga Balaji Praneeth</b>, Hrithik Rao Palvai, Ravikiran Seethini.<br /><b>VIT-</b> Capstone Project [2021]'
 
 ---
 
