@@ -2,7 +2,7 @@
 title: "Disease Classification using Machine Learning"
 collection: publications
 permalink: /publication/project1
-excerpt: 'Mukul Ganwal, <b>Balaji Praneeth Boga</b>, Aneesh Sinha.<br /><b>CMU-</b> 24787 Machine Learning and Artificial Intelligence for Engineers [2023]'
+excerpt: 'Mukul Ganwal, <b>Balaji Praneeth Boga</b>, Aneesh Sinha.<br /><b>CMU-</b> 24787 Machine Learning and Artificial Intelligence for Engineers [2022]'
 
 ---
 
