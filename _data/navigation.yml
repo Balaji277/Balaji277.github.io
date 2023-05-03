@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Resume"
+    url: /resume/
+
   - title: "Publications and Projects"
     url: /publications/
 
   - title: "Activities"
     url: /activities/
- 
-  - title: "Resume"
-    url: /resume/
