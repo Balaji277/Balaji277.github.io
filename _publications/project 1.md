@@ -20,7 +20,7 @@ Methodology
 
 * <h2>Flow Chart showing sequence of events</h2>
 <figure>
-  <img src="/images/meth cap.png" style="width:600px;height:300px;">
+  <img src="/images/cap meth.png" style="width:600px;height:300px;">
 </figure>
 
 
