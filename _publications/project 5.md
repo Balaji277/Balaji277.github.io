@@ -32,3 +32,17 @@ Process
 <figure>
   <img src="/images/deep dream deep dream.png" style="width:600px;height:300px;">
 </figure>
+
+
+Results
+======
+
+The results of the project were impressive, showcasing the creative integration of different machine
+learning techniques in the field of art. The generated music from Langorythm provided a harmonious
+and tranquil background for the visual elements, setting the tone for the project. The StyleGAN, with its
+oil painting style, added a unique artistic touch to the video frames, transforming them into visually
+stunning paint-like scenes. The DeepDream filter applied to selected frames added a sense of messiness
+and confusion, creating an authentic depiction of a bad dream scenario.
+
+The resulting video can be found [[here]](https://drive.google.com/file/d/1qxYJ891LHgH0gzjUCofBjb8DaP_p0ndc/view?usp=share_link)
+
