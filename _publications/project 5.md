@@ -20,15 +20,15 @@ Process
 
 * <h2>Flow Chart</h2>
 <figure>
-  <img src="/images/deep dream process.png" style="width:300px;height:300px;">
+  <img src="/images/deep dream process.png" style="width:600px;height:300px;">
 </figure>
 
 * <h2>Style GAN</h2>
 <figure>
-  <img src="/images/deep dream style gan.png" style="width:300px;height:300px;">
+  <img src="/images/deep dream style gan.png" style="width:600px;height:300px;">
 </figure>
 
 * <h2>Deep Dream</h2>
 <figure>
-  <img src="/images/deep dream deep dream.png" style="width:300px;height:300px;">
+  <img src="/images/deep dream deep dream.png" style="width:600px;height:300px;">
 </figure>
