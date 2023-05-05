@@ -46,3 +46,17 @@ and confusion, creating an authentic depiction of a bad dream scenario.
 
 The resulting video can be found [[here]](https://drive.google.com/file/d/1qxYJ891LHgH0gzjUCofBjb8DaP_p0ndc/view?usp=share_link)
 
+Discussion
+======
+
+This project successfully demonstrated the potential of machine learning in the creative field of art. The
+integration of different techniques, such as music generation, neural synesthesia, StyleGAN, and
+DeepDream, allowed for the creation of a unique and visually captivating, animated video. It
+showcased how machine learning can be used to generate diverse and imaginative content, pushing the
+boundaries of artistic expression and storytelling.
+
+The project aimed to portray a fictional scenario of the destruction of Earth by aliens, as depicted in a
+childhood bad dream. The animated video presented a vivid and immersive visual narrative, with
+elements of chaos, destruction, and confusion portrayed using music, visual effects, and image
+captioning. The dream-like quality of the video, achieved through the DeepDream filter, added an eerie
+and surreal atmosphere, amplifying the emotional impact of the storytelling.
