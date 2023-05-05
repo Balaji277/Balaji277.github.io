@@ -18,7 +18,10 @@ The project aims to develop an electric three-wheeler with air conditioning to p
 Methodology
 ======
 
-The project aims to develop an electric three-wheeler with air conditioning to provide secure isolation from the external environment and proper sanitization for people who need to travel amidst the COVID-19 pandemic. The vehicle will be powered by solar energy and will have proper ventilation regulation. It will be pollution-free, cost-effective, and environmentally friendly, in line with the shift towards electric vehicles in the automobile industry. The project addresses the needs of people who cannot isolate themselves due to work or other reasons, particularly those who use two-wheelers for daily commuting.
+* <h2>Flow Chart showing sequence of events</h2>
+<figure>
+  <img src="/images/meth cap.png" style="width:600px;height:300px;">
+</figure>
 
 
 Results
