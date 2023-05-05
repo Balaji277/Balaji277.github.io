@@ -23,10 +23,10 @@ A real case of e-commerce is presented to illustrate the working of the proposed
 Results
 ======
 
--The rate of return on investment, flexibility of service systems, and supplier lead time against industry norm are significant factors in the framework.
--The weights assigned to these factors are 0.07764, 0.06863, and 0.0547, respectively.
--Amazon and Flipkart are highlighted as supply chains that stand out among others in the study.
--The closeness coefficients of Amazon and Flipkart are 0.945 and 0.516, respectively.
+-The rate of return on investment, flexibility of service systems, and supplier lead time against industry norm are significant factors in the framework.<br />
+-The weights assigned to these factors are 0.07764, 0.06863, and 0.0547, respectively.<br />
+-Amazon and Flipkart are highlighted as supply chains that stand out among others in the study.<br />
+-The closeness coefficients of Amazon and Flipkart are 0.945 and 0.516, respectively.<br />
 
 
 Conclusion
