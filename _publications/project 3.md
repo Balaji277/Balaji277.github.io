@@ -26,6 +26,22 @@ Results
 
 The results showed that Random Forest Classifier was the best performing model with an accuracy of 99%, followed by Support Vector Machine with 98%, Decision Tree Classifier with 95%, and Logistic Regression with 68%. Feature engineering and optimal hyperparameter tuning helped to remove redundant features and improve the accuracy of the Random Forest Classifier. The optimal number of trees and depth obtained from hyperparameter tuning were 24 and 14 respectively. The accuracy of the Random Forest Classifier decreased to 99% after feature engineering, but the number of features put into use decreased to 99 from 133, making the model more efficient to work on larger data.
 
+* <h2>Performance of models before and after Feature Engineering</h2>
+<figure>
+  <img src="/images/comp res.png" style="width:600px;height:300px;">
+</figure>
+
+* <h2>Before Feature Engineering</h2>
+<figure>
+  <img src="/images/bf trees.png" style="width:600px;height:300px;">
+</figure>
+
+* <h2>After Feature Engineering</h2>
+<figure>
+  <img src="/images/af trees.png" style="width:600px;height:300px;">
+</figure>
+
+
 
 Conclusion
 ======
