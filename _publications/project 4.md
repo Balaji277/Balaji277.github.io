@@ -17,7 +17,7 @@ This project showcases the potential of Generative Adversarial Networks (GANs) i
 
 Process
 ======
-<b> STEP 1: </b> Human Faces to Anime Faces using an Anime GAN
+<b> STEP 1: </b> Human Faces to Anime Faces using an Anime GAN<br />
 <b> STEP 2: </b> Anime Faces to Horrifying Faces using Fast Style Transfer
 
 
