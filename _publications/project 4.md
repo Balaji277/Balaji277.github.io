@@ -17,14 +17,23 @@ This project showcases the potential of Generative Adversarial Networks (GANs) i
 
 Process
 ======
-
-This project showcases the potential of Generative Adversarial Networks (GANs) in generating high-quality and realistic images in a specific style. The focus of the project was on creating scary and horrifying anime-style images using Fast Style Transfer and Scalable Diffusion techniques. The use of the anime style, known for its distinctive character designs and stylized features, added a unique touch to the images, resulting in high artistic quality and visual appeal. The project also highlights the emotional impact that scary and horrifying images can have on viewers and demonstrates the potential of GANs in creating media that elicits strong emotional responses. The use of GANs in the creative industries has immense potential, from generating realistic CGI in movies to creating custom avatars for video games. This project serves as an example of how GANs can be used to create engaging and personalized visual media and showcases the technology's evolution and future possibilities.
+<b> STEP 1: </b> Human Faces to Anime Faces using an Anime GAN
+<b> STEP 2: </b> Anime Faces to Horrifying Faces using Fast Style Transfer
 
 
 Results
 ======
+* <h2>Anime GAN</h2>
+<figure>
+  <img src="/images/AnimaGAN.png" style="width:600px;height:300px;">
+</figure>
 
-This project showcases the potential of Generative Adversarial Networks (GANs) in generating high-quality and realistic images in a specific style. The focus of the project was on creating scary and horrifying anime-style images using Fast Style Transfer and Scalable Diffusion techniques. The use of the anime style, known for its distinctive character designs and stylized features, added a unique touch to the images, resulting in high artistic quality and visual appeal. The project also highlights the emotional impact that scary and horrifying images can have on viewers and demonstrates the potential of GANs in creating media that elicits strong emotional responses. The use of GANs in the creative industries has immense potential, from generating realistic CGI in movies to creating custom avatars for video games. This project serves as an example of how GANs can be used to create engaging and personalized visual media and showcases the technology's evolution and future possibilities.
+* <h2>Fast Style Transfer</h2>
+<figure>
+  <img src="/images/fast style trasnfer.png" style="width:600px;height:300px;">
+</figure>
+
+The project involved using GANs and Style Transfer methods to modify images of human faces into scary death note versions of the faces. We used the AnimeGAN to convert pre-processed human faces images to anime-style images and explored two approaches to generate the final death note version.
 
 
 Discussion
