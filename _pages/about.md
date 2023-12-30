@@ -9,7 +9,7 @@ redirect_from:
 ---
 <i>"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt</i>
 
-<b>Looking for Internships for <u>Summer 2023</u> in Computer Vision and Deep Learning, where I can contribute to solve challenging problems</b>
+<b>Looking for Full-Time Opportunities starting <u>February 2023</u> in Computer Vision and Deep Learning, where I can contribute to solve challenging problems</b>
 
 Here is my [Resume](https://drive.google.com/file/d/1Q297GuqGtTjWjuGzbk4fqn0LgDlw_WD4/view?usp=drive_link)
 
