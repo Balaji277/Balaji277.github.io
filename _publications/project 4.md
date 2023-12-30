@@ -2,7 +2,7 @@
 title: "The Art of Decay"
 collection: publications
 permalink: /publication/project2
-excerpt: 'Moulya S, <b>Balaji Praneeth Boga</b>, Shreyas B, Kyle Clarke, Myria Mathew.<br /><b>CMU-</b> 10615 Art and Machine Learning [2023]'
+excerpt: 'Moulya S, <b>Balaji Praneeth Boga</b>, Shreyas B, Kyle Clarke, Myria Mathew.<br /><b>CMU-</b> 10615 Art and Machine Learning [2023].<br />Generative Adverserial Networks, Data Generation, Language Models, Deep Learning, Generative AI''
 
 ---
 
