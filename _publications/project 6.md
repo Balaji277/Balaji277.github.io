@@ -1,7 +1,7 @@
 ---
 title: "Variability in Performance of SOTA models in Object Detection towards Synthetic Dataset"
 collection: publications
-permalink: /publication/project6
+permalink: /publication/CV/project6
 excerpt: 'Niranjan Kumawat, Mangalam Sahai, <b>Balaji Praneeth Boga</b>, Alexander Lyons.<br /><b>CMU-</b> 16824 Visual Learning and Recognition [2023]'
 
 ---
