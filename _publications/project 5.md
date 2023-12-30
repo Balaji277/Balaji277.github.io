@@ -2,7 +2,7 @@
 title: "The Bad Dream"
 collection: publications
 permalink: /publication/project3
-excerpt: '<b>Balaji Praneeth Boga</b>.<br /><b>CMU-</b> 10615 Art and Machine Learning [2023]'
+excerpt: '<b>Balaji Praneeth Boga</b>.<br /><b>CMU-</b> 10615 Art and Machine Learning [2023].<br />Generative Adverserial Networks, Data Generation, Language Models, Deep Learning, Generative AI'
 
 ---
 
