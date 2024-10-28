@@ -11,7 +11,7 @@ redirect_from:
 
 <b>Looking for Full-Time Opportunities starting <u>February 2023</u> in Computer Vision and Deep Learning, where I can contribute to solve challenging problems</b>
 
-Here is my [Resume](https://drive.google.com/file/d/1Q297GuqGtTjWjuGzbk4fqn0LgDlw_WD4/view?usp=drive_link)
+Here is my [Resume](https://drive.google.com/file/d/1H8oqMWFp96PwJLOI8Z0wQENhII4DGgGy/view?usp=sharing)
 
 I'm Balaji Praneeth Boga, currently pursuing masters in Mechanical Engineering at Carnegie Mellon University, focussing on Robotics and Controls. I hail from Hyderabad, India and currently based out of Pittsburgh, Pennsylvania. I'm diving deep in the Computer Vision and Deep Learning space. I'm interested in Data Science, Deep Learning and Computer Vision. I firmly believe that my passion, hard work and leadership skills shall empower me to create a meaningful impact on humanity through technology.
 
